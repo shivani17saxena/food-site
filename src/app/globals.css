@@ -169,6 +169,8 @@ body {
   position: relative;
   top: -47%;
   left: -7%;
+  z-index: 20;
+  isolation: isolate;
 }
 
 .community-header h1 {
@@ -179,12 +181,14 @@ body {
   display: inline-block;
   margin-bottom: 0px;
   line-height: 0.8;
+  isolation: isolate;
 }
 
 .community-header h1 span {
-  z-index: 1;
+  /* z-index: 1; */
   padding: 0 10px;
   color: #000;
+  isolation: isolate;
 }
 
 .community-header h1 span::before {
@@ -197,6 +201,7 @@ body {
   height: 6px;
   background-color: #ffdac9;
   z-index: -1;
+  isolation: isolate;
 }
 
 .community-header p {
@@ -442,6 +447,7 @@ body {
   background-color: #F8F8F8;
   text-align: center;
   position: relative;
+  height: 780px;
 }
 
 .menu-header {
@@ -509,9 +515,9 @@ body {
 .menu-column.starters::before{
   content: '';
   position: absolute;
-  top: -18%;
+  top: -17%;
   right: 0;
-  height: 100vh;
+  height: 840px;
   width: 1.5px;
   opacity: 0.2;
   background-color: #777777;
@@ -521,9 +527,9 @@ body {
 .menu-column.main-courses::before{
   content: '';
   position: absolute;
-  top: -21%;
+  top: -20%;
   right: 0;
-  height: 100vh;
+  height: 840px;
   width: 1.5px;
   opacity: 0.2;
   background-color: #777777;
@@ -533,9 +539,9 @@ body {
 .menu-column.sides::before{
   content: '';
   position: absolute;
-  top: -19%; 
+  top: -18%; 
   right: 0;
-  height: 100vh; 
+  height: 840px; 
   width: 1.5px;
   opacity: 0.2;
   background-color: #777777;
