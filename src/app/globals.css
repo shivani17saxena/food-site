@@ -89,7 +89,7 @@ body {
 }
 
 .hero h1 {
-  font-size: 4rem; 
+  font-size: 64px; 
   line-height: 0.8;
   color: white;
   text-transform: uppercase;
@@ -97,12 +97,12 @@ body {
 }
 
 .hero .experience {
-  font-size: 5.6rem;
+  font-size: 89.6px;
   margin-top: 0px;
 }
 
 .hero p {
-  font-size: 2rem; 
+  font-size: 32px; 
   color: white;
   margin-top: 5px;
   text-transform: uppercase;
@@ -120,7 +120,7 @@ body {
   background-color: white; 
   color: #000000;
   padding: 15px 15px 5px 15px; 
-  font-size: 23px;
+  font-size: 20px;
   text-transform: uppercase;
   border-radius: 0; 
   border: none;
@@ -148,7 +148,7 @@ body {
 
 .vertical-nav span:first-child {
   height: auto;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: bold;
   color: #333;
 }
@@ -218,7 +218,7 @@ body {
   padding: 10px 20px;
   background-color: #ffdac9;
   color: #000;
-  font-size: 1rem;
+  font-size: 20px;
   text-decoration: none;
   font-weight: bold;
   text-transform: uppercase;
@@ -360,7 +360,7 @@ body {
 .text-box .engagement {
   display: flex;
   gap: 15px;
-  font-size: 0.85rem;
+  font-size: 16px;
   color: #666;
   justify-content: flex-end;
 }
@@ -376,7 +376,7 @@ body {
   padding-top: 30px;
   margin-right: 44%;
   display: flex;
-  font-size: 18px;
+  font-size: 20px;
   font-family: 'CustomFont2', sans-serif;
 }
 
@@ -424,7 +424,7 @@ body {
 .location-box p {
   font-family: 'CustomFont2', sans-serif;
   margin: -10px 0 0 10px;
-  font-size: 13px;
+  font-size: 14px;
   font-weight: lighter;
   color: #4a4a4a;
 }
@@ -485,7 +485,7 @@ body {
   display: inline-block;
   background-color: #ffdac9;
   color: #000;
-  font-size: 18px;
+  font-size: 20px;
   text-decoration: none;
   font-weight: bold;
   text-transform: uppercase;
@@ -571,7 +571,7 @@ body {
 
 .menu-item-title {
   font-weight: bold;
-  font-size: 18px;
+  font-size: 20px;
   margin-bottom: 5px;
   color: #000000 !important;
   font-family: 'CustomFont' !important;
@@ -579,7 +579,7 @@ body {
 }
 
 .menu-item p {
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.6;
   color: #777;
   font-family: 'CustomFont2';
@@ -622,7 +622,7 @@ body {
 }
 
 .collaborate-content h2 {
-  font-size: 48px;
+  font-size: 50px;
   color: #333;
   margin-bottom: 20px;
   text-transform: uppercase;
@@ -647,7 +647,7 @@ body {
 }
 
 .collaborate-content p {
-  font-size: 16px;
+  font-size: 20px;
   line-height: 1.8;
   color: #666;
   margin-bottom: 20px;
@@ -683,7 +683,7 @@ body {
 }
 
 .form-group label {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: bold;
   color: #333;
   margin-bottom: 5px;
@@ -714,7 +714,7 @@ body {
   border: none;
   cursor: pointer;
   text-transform: uppercase;
-  font-size: 14px;
+  font-size: 16px;
   grid-column: span 2;
   width: 100px;
   margin-top: 10px;
@@ -768,7 +768,7 @@ select {
 }
 
 .footer-section h3 {
-  font-size: 18px;
+  font-size: 20px;
   color: #ffdac9;
   margin-bottom: 15px;
 }
@@ -785,7 +785,7 @@ select {
 .footer-section ul li a {
   color: #999;
   text-decoration: none;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .footer-section ul li a:hover {
@@ -809,7 +809,7 @@ select {
 }
 
 .footer-bottom p {
-  font-size: 12px;
+  font-size: 16px;
   color: #999;
 }
 
@@ -828,7 +828,7 @@ select {
 .social-icons a {
   margin-right: 15px;
   color: #fff;
-  font-size: 18px;
+  font-size: 20px;
   padding-left: 20px;
 }
 
